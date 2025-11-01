@@ -1,16 +1,19 @@
-## Hi there 👋
+Welcome To My Profile
+👋 Halo, saya CekkoTMK
 
-<!--
-**CekkoTMK/CekkoTMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🧠 Yang lagi saya pelajari:
+- ⚙️ HTML
+- 🎨 CSS 
+- ⚡ JavaScripy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Keahlian saya:
+- 🖥️ **Service komputer** — 
+- 🌐 **Manajemen jaringan** —
+
+---
+
+![Cekko's GitHub stats](https://github-readme-stats.vercel.app/api?username=CekkoTMK&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CekkoTMK&layout=compact&theme=tokyonight)
